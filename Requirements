@@ -1,0 +1,3 @@
+Before running the script, make sure to install the necessary libraries:
+
+pip install requests beautifulsoup4 selenium webdriver-manager pandas
